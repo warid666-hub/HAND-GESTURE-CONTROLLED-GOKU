@@ -40,4 +40,8 @@ Built using **Python, OpenCV, and MediaPipe**, this project combines AI with cre
 -M WARID ALI
 -AI STUDENT
 
+## ⚠️ Disclaimer
+
+This project is for educational and creative purposes only.
+Dragon Ball characters belong to their respective owners.
 
